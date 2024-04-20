@@ -1,0 +1,19 @@
+{
+  "name": "practical2",
+  "version": "1.0.0",
+  "description": "Week01 - Practical 2 CA",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvinn44/BED2024Apr_P03_s10262567.git"
+  },
+  "author": "Tan Guo Zhi Kelvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvinn44/BED2024Apr_P03_s10262567/issues"
+  },
+  "homepage": "https://github.com/kelvinn44/BED2024Apr_P03_s10262567#readme"
+}
